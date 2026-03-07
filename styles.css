@@ -9,8 +9,11 @@ body {
 }
 
 h1 {
-    padding-bottom: 0px;
     transition: color 0.3s;
+}
+
+p {
+
 }
 
 /* Dark mode */
