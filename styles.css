@@ -1,3 +1,9 @@
+.container {
+    max-width: 800px;      /* Limits width on large screens */
+    margin: 0 auto;        /* Centers the container */
+    padding: 20px;         /* Creates the "imaginary border" space */
+}
+
 /* Light mode (default) */
 body {
     font-family: "IBM Plex Serif", serif;
