@@ -4,6 +4,12 @@
     padding: 20px;         /* Creates the "imaginary border" space */
 }
 
+.header-row {
+    display: flex;
+    justify-content: flex-end;  /* Pushes button to the right */
+    margin-bottom: 10px;
+}
+
 /* Light mode (default) */
 body {
     font-family: "IBM Plex Serif", serif;
@@ -32,12 +38,6 @@ body.dark-mode {
 
 body.dark-mode h1 {
     color: #bb86fc;
-}
-
-.header-row {
-    display: flex;
-    justify-content: flex-end;  /* Pushes button to the right */
-    margin-bottom: 20px;
 }
 
 .dark-btn {
