@@ -36,9 +36,6 @@ body.dark-mode .dark-btn {
     border-color: #555;
 }
 
-.dark-btn:hover {
-    transform: scale(1.05);
-}
 
 h1 {
     transition: color 0.3s;
