@@ -34,6 +34,12 @@ body.dark-mode h1 {
     color: #bb86fc;
 }
 
+.header-row {
+    display: flex;
+    justify-content: flex-end;  /* Pushes button to the right */
+    margin-bottom: 20px;
+}
+
 .dark-btn {
     padding: 8px 16px;
     cursor: pointer;
