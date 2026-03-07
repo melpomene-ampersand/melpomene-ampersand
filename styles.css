@@ -8,6 +8,10 @@ body {
     transition: background-color 0.3s, color 0.3s;
 }
 
+h1 {
+    padding: 0px;
+}
+
 /* Dark mode */
 body.dark-mode {
     background-color: #1a1a1a;
