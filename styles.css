@@ -1,7 +1,7 @@
 /* Light mode (default) */
 body {
     font-family: "IBM Plex Serif", serif;
-    margin: 10px;
+    margin: 0px;
     padding: 0px;
     background-color: white;
     color: black;
@@ -14,7 +14,7 @@ h1 {
 }
 
 p {
-
+padding: 0px;
 }
 
 /* Dark mode */
