@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    padding: 0px;
+    padding-bottom: 0px;
     transition: color 0.3s;
 }
 
