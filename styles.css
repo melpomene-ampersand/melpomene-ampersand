@@ -54,6 +54,10 @@ body.dark-mode h1 {
     margin: 2px;
 }
 
+.dark-btn:hover {
+    opacity: 0.6;
+}
+
 body.dark-mode .dark-btn {
     background-color: #1d1813;
     color: #f0f0f0;
