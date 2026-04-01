@@ -17,7 +17,7 @@ body {
     margin: 0px;
     padding: 0px;
     background-color: white;
-    color: black;
+    color: #130e09;
     transition: background-color 0.3s, color 0.3s;
 }
 
@@ -33,12 +33,12 @@ p {
 
 /* Dark mode */
 body.dark-mode {
-    background-color: #1a1a1a;
+    background-color: #130e09;
     color: #f0f0f0;
 }
 
 body.dark-mode h1 {
-    color: #bb86fc;
+    color: #a17246;
 }
 
 .dark-btn {
@@ -55,6 +55,6 @@ body.dark-mode h1 {
 }
 
 body.dark-mode .dark-btn {
-    background-color: #333;
+    background-color: #1d1813;
     color: #f0f0f0;
 }
