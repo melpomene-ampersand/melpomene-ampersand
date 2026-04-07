@@ -4,14 +4,27 @@
     padding: 20px;         /* Creates the "imaginary border" space */
 }
 
+
 .header-row {
     display: flex;
-    justify-content: flex-end;  /* Pushes button to the right */
+    justify-content: space-between;
+    align-items: center;
     margin-bottom: 10px;
     font-family: "IBM Plex Mono", monospace;
 }
 
-/* Light mode (default) */
+.nav-left {
+    display: flex;
+    gap: 8px;
+}
+
+.nav-right {
+    display: flex;
+    gap: 8px;
+}
+
+
+/* Light mode */
 body {
     font-family: "IBM Plex Serif", serif;
     margin: 0px;
