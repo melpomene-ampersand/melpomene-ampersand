@@ -41,7 +41,7 @@ body.dark-mode h1 {
     color: #a17246;
 }
 
-.dark-btn {
+.btn {
     padding: 8px 16px;
     cursor: pointer;
     font-family: "IBM Plex Mono", monospace;
@@ -54,11 +54,11 @@ body.dark-mode h1 {
     margin: 2px;
 }
 
-.dark-btn:hover {
+.btn:hover {
     opacity: 0.6;
 }
 
-body.dark-mode .dark-btn {
+body.dark-mode .btn {
     background-color: #1d1813;
     color: #f0f0f0;
 }
