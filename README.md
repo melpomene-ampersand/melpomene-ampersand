@@ -1,4 +1,4 @@
-# melpomene-ampersand
+# melpomene&
 >_a personal blog-ish website_
 
 - [ ] set up multiple pages
