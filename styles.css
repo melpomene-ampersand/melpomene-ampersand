@@ -24,18 +24,15 @@
 }
 
 
-/* Light mode */
 body {
     font-family: "IBM Plex Serif", serif;
     margin: 0px;
     padding: 0px;
     background-color: white;
     color: #130e09;
-    transition: background-color 0.3s, color 0.3s;
 }
 
 h1 {
-    transition: color 0.3s;
     font-weight: 700;
     margin: 0px;
 }
@@ -44,15 +41,6 @@ p {
     margin: 0px;
 }
 
-/* Dark mode */
-body.dark-mode {
-    background-color: #130e09;
-    color: #f0f0f0;
-}
-
-body.dark-mode h1 {
-    color: #a17246;
-}
 
 .btn {
     padding: 8px 16px;
@@ -71,7 +59,3 @@ body.dark-mode h1 {
     opacity: 0.6;
 }
 
-body.dark-mode .btn {
-    background-color: #1d1813;
-    color: #f0f0f0;
-}
